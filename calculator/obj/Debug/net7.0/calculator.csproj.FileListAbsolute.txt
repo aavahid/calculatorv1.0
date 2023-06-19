@@ -1,0 +1,15 @@
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/calculator.csproj.AssemblyReference.cache
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/calculator.AssemblyInfoInputs.cache
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/calculator.AssemblyInfo.cs
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/calculator.csproj.CoreCompileInputs.cache
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/bin/Debug/net7.0/calculator
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/bin/Debug/net7.0/calculator.deps.json
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/bin/Debug/net7.0/calculator.runtimeconfig.json
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/bin/Debug/net7.0/calculator.dll
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/bin/Debug/net7.0/calculator.pdb
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/calculator.dll
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/refint/calculator.dll
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/calculator.pdb
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/calculator.genruntimeconfig.cache
+/Users/vagazadee/Desktop/Calculator_cs/calculator/calculator/obj/Debug/net7.0/ref/calculator.dll
